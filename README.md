@@ -1,3 +1,1 @@
-## DevOps Project for Beginners   
-
-[![Image]
+## DevOps Project for Beginners ##
